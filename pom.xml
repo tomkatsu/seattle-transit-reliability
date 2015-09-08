@@ -10,6 +10,7 @@
 
 	<modules>
 		<module>server</module>
+		<module>site</module>
 	</modules>
 
 </project>
